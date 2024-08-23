@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-23T11:28:19 IST" name="Default suite" finished-at="2024-08-23T11:28:25 IST" duration-ms="6548">
+    <groups>
+    </groups>
+    <test started-at="2024-08-23T11:28:19 IST" name="Default test" finished-at="2024-08-23T11:28:25 IST" duration-ms="6548">
+      <class name="testinghomepage.HomePageTesting">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testinghomepage.HomePageTesting@51bd8b5c]" started-at="2024-08-23T11:28:19 IST" name="setUp" finished-at="2024-08-23T11:28:20 IST" duration-ms="1308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testinghomepage.HomePageTesting@51bd8b5c]" started-at="2024-08-23T11:28:20 IST" name="setUp" finished-at="2024-08-23T11:28:21 IST" duration-ms="713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHomepageWithPercy()[pri:0, instance:testinghomepage.HomePageTesting@51bd8b5c]" started-at="2024-08-23T11:28:21 IST" name="testHomepageWithPercy" finished-at="2024-08-23T11:28:25 IST" duration-ms="4399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomepageWithPercy -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testinghomepage.HomePageTesting@51bd8b5c]" started-at="2024-08-23T11:28:25 IST" name="tearDown" finished-at="2024-08-23T11:28:25 IST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testinghomepage.HomePageTesting@51bd8b5c]" started-at="2024-08-23T11:28:25 IST" name="tearDown" finished-at="2024-08-23T11:28:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testinghomepage.HomePageTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
